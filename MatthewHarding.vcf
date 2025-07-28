@@ -1,0 +1,54 @@
+BEGIN:VCARD
+VERSION:3.0
+
+FN:Matthew Harding
+N:Harding;Matthew;;;
+
+ORG:Ontelligence
+TITLE:
+
+TEL;TYPE=WORK,VOICE:+1 (318) 545 4189
+TEL;TYPE=CELL,VOICE:+1 (318) 308 6010
+
+
+item1.EMAIL:Matt.Harding@ontelligence.co.uk
+item1.X-ABLabel:Work Email Address
+
+item2.EMAIL:support@kbisp.com
+item2.X-ABLabel:Technical Support
+
+item3.EMAIL:sales@kbisp.com
+item3.X-ABLabel:Sales Support
+
+item4.EMAIL:marketing@kbisp.com
+item4.X-ABLabel:Kinetix Marketing
+
+item5.URL:
+item5.X-ABLabel:Company Website
+
+item6.URL:https://www.linkedin.com/company/kinetixworks
+item6.X-ABLabel:Kinetix LinkedIn Company Page
+
+item7.URL:https://teams.microsoft.com/l/chat/0/0?users=mharding@kbisp.com
+item7.X-ABLabel:Chat on Microsoft Teams
+
+item8.URL:https://youtube.com/@mattharding
+item8.X-ABLabel:YouTube Channel
+
+item9.X-ABLabel:🐦 Twitter
+item9.URL:https://www.facebook.com/kinetixworks
+
+item10.URL:https://outlook.office.com/book/MarketingServices@kbisp.com/?ismsaljsauthenabled
+item10.X-ABLabel:Book a Marketing Services Consultation
+
+item11.URL:https://outlook.office.com/book/TechnologyServices@kbisp.com/?ismsaljsauthenabled
+item11.X-ABLabel:Book a Technical Services Consultation
+
+X-SOCIALPROFILE;type=linkedin:https://www.linkedin.com/in/mattharding
+X-SOCIALPROFILE;type=https://www.facebook.com/kinetixworks
+
+ADR;TYPE=WORK:;;400 Murray Street;Alexandria;Alexandria;71301;United States
+
+NOTE:
+
+END:VCARD
