@@ -26,28 +26,19 @@ item4.X-ABLabel:Kinetix Marketing
 item5.URL:https://www.kbisp.com
 item5.X-ABLabel:Company Website
 
-item6.URL:https://www.linkedin.com/company/kinetixworks
-item6.X-ABLabel:Kinetix LinkedIn Company Page
 
-item7.URL:https://teams.microsoft.com/l/chat/0/0?users=Matt.Harding@ontelligence.co.uk
-item7.X-ABLabel:Chat on Microsoft Teams
+item6.X-ABLabel:Book a Marketing Services Consultation
+item6.URL:
 
-item8.URL:https://www.youtube.com/@kinetixworks
-item8.X-ABLabel:YouTube Channel
-
-item9.X-ABLabel:Kinetix LinkedIn
-item9.URL:https://www.linkedin.com/company/kinetixworks
-
-item10.X-ABLabel:Book a Marketing Services Consultation
-item10.URL:
-
-item11.X-ABLabel:Book a Technical Services Consultation
-item11.URL:
+item7.X-ABLabel:Book a Technical Services Consultation
+item7.URL:
 
 
 X-SOCIALPROFILE;type=linkedin:https://www.linkedin.com/in/hardingmatt
 X-SOCIALPROFILE;type=facebook:https://www.facebook.com/kinetixworks
-X-SOCIALPROFILE;type=teams:https://teams.microsoft.com/l/chat/0/0?users=Matt.Harding@ontelligence.co.uk
+X-SOCIALPROFILE;type=TikTok:https://www.tiktok.com/@kinetixworks
+X-SOCIALPROFILE;type=YouTube:https://www.youtube.com/@kinetixworks
+X-SOCIALPROFILE;type=Instagram:https://www.instagram.com/kinetixworks
 
 ADR;TYPE=WORK:;;400 Murray Street;Alexandria;Alexandria;71301;United States
 
