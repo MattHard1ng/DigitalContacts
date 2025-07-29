@@ -19,6 +19,7 @@ TEL;TYPE=cell,voice:+1 (318) 308 6010
 TEL;TYPE=fax,work:
 
 ADR;TYPE=WORK:;;400 Murray Street;Alexandria;Louisiana;71301;United States
+ADR;TYPE=home:;;;;Texas;;
 
 URL;TYPE=work:
 URL;TYPE=personal:
