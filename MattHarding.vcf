@@ -7,7 +7,7 @@ N:Harding;Matt;;;
 ORG:Ontelligence
 TITLE:Director of Strategy and Consulting
 
-TEL;TYPE=WORK,VOICE:+1 (318) 545 4190
+TEL;TYPE=WORK,VOICE:+1 (318) 545 4189
 TEL;TYPE=CELL,VOICE:+1 (318) 308 6010
 
 
@@ -45,10 +45,10 @@ item11.URL:https://outlook.office.com/book/TechnologyServices@kbisp.com/?ismsalj
 item11.X-ABLabel:Book a Technical Services Consultation
 
 X-SOCIALPROFILE;type=linkedin:https://www.linkedin.com/in/mattharding
-X-SOCIALPROFILE;type=https://www.facebook.com/kinetixworks
+X-SOCIALPROFILE;type=
 
 ADR;TYPE=WORK:;;400 Murray Street;Alexandria;Alexandria;71301;United States
 
-NOTE:Test Information
+NOTE:
 
 END:VCARD
