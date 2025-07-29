@@ -20,49 +20,45 @@ TEL;TYPE=fax,work:
 
 ADR;TYPE=work:;;400 Murray Street;Alexandria;Louisiana;71301;United States
 
-URL;TYPE=work:https://www.kbisp.com
+URL;TYPE=work:
 URL;TYPE=personal:
 
-item1.X-ABLabel:Kinetix Linkedin Page
-item1.URL:https://www.linkedin.com/company/kinetixworks
+item1.X-ABLabel:Kinetix Website
+item1.URL:https://www.kbisp.com
 
-item2.X-ABLabel:Kinetix Facebook Page
-item2.URL:https://www.facebook.com/kinetixworks
+item2.X-ABLabel:Kinetix Linkedin Page
+item2.URL:https://www.linkedin.com/company/kinetixworks
 
-item3.X-ABLabel:Kinetix Instagram Page
-item3.URL:https://www.instagram.com/kinetixworks
+item3.X-ABLabel:Kinetix Facebook Page
+item3.URL:https://www.facebook.com/kinetixworks
 
-item4.X-ABLabel:Kinetix TikTok Page
-item4.URL:https://www.tiktok.com/@kinetixworks
+item4.X-ABLabel:Kinetix Instagram Page
+item4.URL:https://www.instagram.com/kinetixworks
 
-item5.X-ABLabel:Kinetix YouTube Channel
-item5.URL:https://www.youtube.com/@kinetixworks
+item5.X-ABLabel:Kinetix TikTok Page
+item5.URL:https://www.tiktok.com/@kinetixworks
 
-item6.X-ABLabel:Kinetix Marketing Services Consultation Booking Page
-item6.URL:
+item6.X-ABLabel:Kinetix YouTube Channel
+item6.URL:https://www.youtube.com/@kinetixworks
 
-item7.X-ABLabel:Kinetix Technical Services Consultation Booking Page
+item7.X-ABLabel:Kinetix Marketing Services Consultation Booking Page
 item7.URL:
 
-item8.X-ABLabel:Kinetix Marketing Services Support
-item8.URL:marketing@kbisp.com
+item8.X-ABLabel:Kinetix Technical Services Consultation Booking Page
+item8.URL:
 
-item9.X-ABLabel:Kinetix Technical Services Support
-item9.URL:support@kbisp.com
+item9.X-ABLabel:Kinetix Marketing Services Support
+item9.URL:marketing@kbisp.com
 
-item10.X-ABLabel:Kinetix Sales Supoport
-item19.URL:sales@kbisp.com
+item10.X-ABLabel:Kinetix Technical Services Support
+item10.URL:support@kbisp.com
+
+item11.X-ABLabel:Kinetix Sales Support
+item11.URL:sales@kbisp.com
 
 X-SOCIALPROFILE;type=linkedin:https://www.linkedin.com/in/hardingmatt
-X-SOCIALPROFILE;type=facebook:
-X-SOCIALPROFILE;type=instagram:
-X-SOCIALPROFILE;type=tiktok:
-X-SOCIALPROFILE;type=youtube:
 X-SOCIALPROFILE;type=teams:https://teams.microsoft.com/l/chat/0/0?users=Matt.Harding@ontelligence.co.uk
 
-
-IMPP;X-SERVICE-TYPE=teams:im:microsoft.teams:Matt.Harding@ontelligence.co.uk
-
-NOTE:
+NOTE:Some Information About Me
 
 END:VCARD
