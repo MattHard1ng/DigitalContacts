@@ -18,8 +18,8 @@ TEL;TYPE=work,voice:+1 (318) 545 4189
 TEL;TYPE=cell,voice:+1 (318) 308 6010
 TEL;TYPE=fax,work:
 
-ADR;TYPE=WORK:;;400 Murray Street;Alexandria;Louisiana;71301;United States
-ADR;TYPE=home:;;;;Texas;;
+ADR;TYPE=work:;;400 Murray Street;Alexandria;Louisiana;71301;United States
+ADR;TYPE=home:;;;;;;
 
 URL;TYPE=work:
 URL;TYPE=personal:
@@ -58,7 +58,7 @@ item11.X-ABLabel:Kinetix Sales Support
 item11.URL:sales@kbisp.com
 
 X-SOCIALPROFILE;type=linkedin:https://www.linkedin.com/in/hardingmatt
-X-SOCIALPROFILE;type=teams:https://teams.microsoft.com/l/chat/0/0?users=Matt.Harding@ontelligence.co.uk
+
 
 NOTE:Some Information About Me
 
