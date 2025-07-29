@@ -34,11 +34,11 @@ item7.X-ABLabel:Book a Technical Services Consultation
 item7.URL:
 
 
-X-SOCIALPROFILE;type=linkedin:https://www.linkedin.com/in/hardingmatt
+X-SOCIALPROFILE;type=linkedin (Kinetix):https://www.linkedin.com/in/hardingmatt
 X-SOCIALPROFILE;type=facebook:https://www.facebook.com/kinetixworks
-X-SOCIALPROFILE;type=TikTok:https://www.tiktok.com/@kinetixworks
-X-SOCIALPROFILE;type=YouTube:https://www.youtube.com/@kinetixworks
-X-SOCIALPROFILE;type=Instagram:https://www.instagram.com/kinetixworks
+X-SOCIALPROFILE;type=tiktok:https://www.tiktok.com/@kinetixworks
+X-SOCIALPROFILE;type=youtube:https://www.youtube.com/@kinetixworks
+X-SOCIALPROFILE;type=instagram:https://www.instagram.com/kinetixworks
 
 ADR;TYPE=WORK:;;400 Murray Street;Alexandria;Alexandria;71301;United States
 
