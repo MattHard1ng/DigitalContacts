@@ -46,7 +46,8 @@ item11.URL:
 
 
 X-SOCIALPROFILE;type=linkedin:https://www.linkedin.com/in/hardingmatt
-X-SOCIALPROFILE;type=
+X-SOCIALPROFILE;type=facebook:https://www.facebook.com/kinetixworks
+X-SOCIALPROFILE;type=teams:https://teams.microsoft.com/l/chat/0/0?users=Matt.Harding@ontelligence.co.uk
 
 ADR;TYPE=WORK:;;400 Murray Street;Alexandria;Alexandria;71301;United States
 
