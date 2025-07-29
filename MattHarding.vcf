@@ -18,7 +18,7 @@ TEL;TYPE=work,voice:+1 (318) 545 4189
 TEL;TYPE=cell,voice:+1 (318) 308 6010
 TEL;TYPE=fax,work:
 
-ADR;TYPE=work:;;400 Murray Street;Alexandria;Louisiana;71301;United States
+ADR;TYPE=WORK:;;400 Murray Street;Alexandria;Louisiana;71301;United States
 
 URL;TYPE=work:
 URL;TYPE=personal:
