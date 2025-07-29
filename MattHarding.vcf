@@ -1,46 +1,68 @@
 BEGIN:VCARD
-VERSION:3.0
+VERSION:4.0
 
 FN:Matt Harding
 N:Harding;Matt;;;
+NICKNAME:
+GENDER:
+BDAY:
 
-ORG:Ontelligence
 TITLE:Director of Strategy and Consulting
+ROLE:
+ORG:Ontelligence;
 
-TEL;TYPE=WORK,VOICE:+1 (318) 545 4189
-TEL;TYPE=CELL,VOICE:+1 (318) 308 6010
+EMAIL;TYPE=work,pref:Matt.Harding@ontelligence.co.uk
+EMAIL;TYPE=home:
 
+TEL;TYPE=work,voice:+1 (318) 545 4189
+TEL;TYPE=cell,voice:+1 (318) 308 6010
+TEL;TYPE=fax,work:
 
-item1.EMAIL:Matt.Harding@ontelligence.co.uk
-item1.X-ABLabel:Work Email Address
+ADR;TYPE=work:;;400 Murray Street;Alexandria;Louisiana;71301;United States
 
-item2.EMAIL:support@kbisp.com
-item2.X-ABLabel:Kinetix Technical Support
+URL;TYPE=work:https://www.kbisp.com
+URL;TYPE=personal:
 
-item3.EMAIL:sales@kbisp.com
-item3.X-ABLabel:Kinetix Sales Support
+item1.X-ABLabel:Kinetix Linkedin Page
+item1.URL:https://www.linkedin.com/company/kinetixworks
 
-item4.EMAIL:marketing@kbisp.com
-item4.X-ABLabel:Kinetix Marketing
+item2.X-ABLabel:Kinetix Facebook Page
+item2.URL:https://www.facebook.com/kinetixworks
 
-item5.URL:https://www.kbisp.com
-item5.X-ABLabel:Company Website
+item3.X-ABLabel:Kinetix Instagram Page
+item3.URL:https://www.instagram.com/kinetixworks
 
-item6.X-ABLabel:Book a Marketing Services Consultation
+item4.X-ABLabel:Kinetix TikTok Page
+item4.URL:https://www.tiktok.com/@kinetixworks
+
+item5.X-ABLabel:Kinetix YouTube Channel
+item5.URL:https://www.youtube.com/@kinetixworks
+
+item6.X-ABLabel:Kinetix Marketing Services Consultation Booking Page
 item6.URL:
 
-item7.X-ABLabel:Book a Technical Services Consultation
+item7.X-ABLabel:Kinetix Technical Services Consultation Booking Page
 item7.URL:
 
+item8.X-ABLabel:Kinetix Marketing Services Support
+item8.URL:marketing@kbisp.com
 
-X-SOCIALPROFILE;type=linkedIn:https://www.linkedin.com/in/hardingmatt
-X-SOCIALPROFILE;type=facebook:https://www.facebook.com/kinetixworks
-X-SOCIALPROFILE;type=tiktok:https://www.tiktok.com/@kinetixworks
-X-SOCIALPROFILE;type=youtube:https://www.youtube.com/@kinetixworks
-X-SOCIALPROFILE;type=instagram:https://www.instagram.com/kinetixworks
+item9.X-ABLabel:Kinetix Technical Services Support
+item9.URL:support@kbisp.com
 
-ADR;TYPE=WORK:;;400 Murray Street;Alexandria;Alexandria;71301;United States
+item10.X-ABLabel:Kinetix Sales Supoport
+item19.URL:sales@kbisp.com
 
-NOTE:Some Information About Me
+X-SOCIALPROFILE;type=linkedin:https://www.linkedin.com/in/hardingmatt
+X-SOCIALPROFILE;type=facebook:
+X-SOCIALPROFILE;type=instagram:
+X-SOCIALPROFILE;type=tiktok:
+X-SOCIALPROFILE;type=youtube:
+X-SOCIALPROFILE;type=teams:https://teams.microsoft.com/l/chat/0/0?users=Matt.Harding@ontelligence.co.uk
+
+
+IMPP;X-SERVICE-TYPE=teams:im:microsoft.teams:Matt.Harding@ontelligence.co.uk
+
+NOTE:
 
 END:VCARD
