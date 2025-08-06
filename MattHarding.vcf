@@ -1,7 +1,7 @@
 BEGIN:VCARD
 VERSION:3.0
 
-FN:
+FN:Matt Harding
 N:Matt;Harding;;;
 NICKNAME:
 GENDER:
@@ -20,7 +20,7 @@ TEL;TYPE=cell,work:+1 (318) 308 6010
 TEL;TYPE=fax,work:
 
 ADR;TYPE=work:;;400 Murray Street;Alexandria;Louisiana;71301;United States
-ADR;TYPE=work:;;;;;;
+ADR;TYPE=work:;;1816 Glenmar Avenue, Suite 1;Monroe;Louisiana;71302;United States
 
 URL;TYPE=work:
 URL;TYPE=personal:
@@ -58,10 +58,11 @@ item10.EMAIL:support@kbisp.com
 item11.X-ABLabel:Kinetix Sales Support
 item11.EMAIL:sales@kbisp.com
 
-item12.X-ABLabel:Personal Bookings Page
-item12.URL:https://outlook.office.com/bookwithme/user/0ab27fe6f2664c41af71bfb75fc762c4@ontelligence.co.uk?anonymous&ismsaljsauthenabled&ep=plink
+item12.X-ABLabel:Personal Linkedin Page
+item12.URL:http://www.linkedin.com/in/hardingmatt
 
-X-SOCIALPROFILE;type=linkedin:http://www.linkedin.com/in/hardingmatt
+item13.X-ABLabel:Personal Bookings Page
+item13.URL:https://outlook.office.com/bookwithme/user/0ab27fe6f2664c41af71bfb75fc762c4@ontelligence.co.uk?anonymous&ismsaljsauthenabled&ep=plink
 
 NOTE:Visionary Director of Strategy &amp; Consulting with a strong record of driving business growth through Microsoft 365 adoption, leading digital transformation and cross-functional innovation.
 
