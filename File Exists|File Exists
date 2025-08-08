@@ -1,0 +1,73 @@
+BEGIN:VCARD
+VERSION:3.0
+
+FN:
+N:;;;;
+NICKNAME:
+GENDER:
+BDAY:
+
+TITLE:
+ROLE:
+ORG:;
+
+EMAIL;TYPE=work,pref:
+EMAIL;TYPE=home:
+
+TEL;TYPE=main,voice:
+TEL;TYPE=work,voice:
+TEL;TYPE=cell,work:
+TEL;TYPE=fax,work:
+
+ADR;TYPE=work:;;;;;;
+ADR;TYPE=work:;;;;;;
+
+URL;TYPE=work:
+URL;TYPE=personal:
+
+item1.X-ABLabel:Kinetix Website
+item1.URL:
+
+item2.X-ABLabel:Kinetix Linkedin Page
+item2.URL:
+
+item3.X-ABLabel:Kinetix Facebook Page
+item3.URL:
+
+item4.X-ABLabel:Kinetix Instagram Page
+item4.URL:
+
+item5.X-ABLabel:Kinetix TikTok Page
+item5.URL:
+
+item6.X-ABLabel:Kinetix YouTube Channel
+item6.URL:
+
+item7.X-ABLabel:Kinetix Marketing Services Consultation Booking Page
+item7.URL:
+
+item8.X-ABLabel:Kinetix Technical Services Consultation Booking Page
+item8.URL:
+
+item9.X-ABLabel:Kinetix Marketing Services Support
+item9.EMAIL:
+
+item10.X-ABLabel:Kinetix Technical Services Support
+item10.EMAIL:
+
+item11.X-ABLabel:Kinetix Sales Support
+item11.EMAIL:
+
+item12.X-ABLabel:Personal Linkedin Page
+item12.URL:
+
+item13.X-ABLabel:Personal Bookings Page
+item13.URL:
+
+NOTE:
+
+PHOTO;ENCODING=b;MEDIATYPE=image/png:
+END:VCARD
+
+
+
