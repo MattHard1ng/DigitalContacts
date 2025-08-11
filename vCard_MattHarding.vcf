@@ -15,8 +15,8 @@ EMAIL;TYPE=work,pref:
 EMAIL;TYPE=home:
 
 TEL;TYPE=main,voice:+ 1 (318) 487 8200
-TEL;TYPE=work,voice:+1 (318) 545 4189
-TEL;TYPE=cell,work:+1 (318) 308 6010
+TEL;TYPE=work,voice:
+TEL;TYPE=cell,work:
 TEL;TYPE=fax,work:
 
 ADR;TYPE=work:;;400 Murray Street;Alexandria;Louisiana;71301;United States
@@ -59,7 +59,7 @@ item11.X-ABLabel:Kinetix Sales Support
 item11.EMAIL:sales@kbisp.com
 
 item12.X-ABLabel:Personal Linkedin Page
-item12.URL:https://www.linkedin.com/in/hardingmatt
+item12.URL:
 
 item13.X-ABLabel:Personal Bookings Page
 item13.URL:
