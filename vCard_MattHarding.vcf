@@ -15,7 +15,7 @@ EMAIL;TYPE=work,pref:
 EMAIL;TYPE=home:
 
 TEL;TYPE=main,voice:+ 1 (318) 487 8200
-TEL;TYPE=work,voice:
+TEL;TYPE=work,voice:+1 (318) 545 4189
 TEL;TYPE=cell,work:+1 (318) 308 6010
 TEL;TYPE=fax,work:
 
@@ -64,7 +64,7 @@ item12.URL:
 item13.X-ABLabel:Personal Bookings Page
 item13.URL:
 
-NOTE:Visionary Director of Strategy & Consulting with a strong record of driving business growth through Microsoft 365 adoption, leading digital transformation and cross-functional innovation.
+NOTE:
 
 PHOTO;ENCODING=b;MEDIATYPE=image/png:
 END:VCARD
